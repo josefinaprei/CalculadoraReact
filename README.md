@@ -1,3 +1,6 @@
+Proyecto realizado para curso de freeCodeCamp "Aprende React Desde Cero".
+Hice algunas mejoras, como por ejemplo, incluir validaciones tanto para la funcion de cálculo como para la funcion de input, ya que en la versión original habia muchas excepciones (como inputs que finalizan en operadores o en division por cero) que hacían que la aplicación deje de funcionar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
